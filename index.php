@@ -13,7 +13,7 @@
     <link href="starter-template.css" rel="stylesheet">
   </head>
   <body>
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
       <a class="navbar-brand" href="#">Navigation bar</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -45,12 +45,12 @@
         </form>
       </div>
     </nav>
-    <h3>First Heroku Setup</h3>
 
     <main role="main" class="container">
 
       <div class="starter-template">
         <h1>Bootstrap starter template</h1>
+        <h3>First Heroku Setup by Yusuf Omotoso</h3>
         <p class="lead">
           <!-- php env -->
           <?php
